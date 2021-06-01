@@ -11,3 +11,5 @@ npm install && npm run dev
 ```
 
 then open localhost:3000 in the browser.
+
+![Screenshot](/screenshot.png)
